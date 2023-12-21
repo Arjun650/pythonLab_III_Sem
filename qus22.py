@@ -5,7 +5,6 @@ n = eval(input("enter total number of student"))
 stuDetail = {}
 stuDatabase  ={}
 
-
 for i in range(n):
     id = eval(input("enter id"))
     name = input("enter your name")
