@@ -1,0 +1,1 @@
+# Design a program that uses a dictionary to store information about students. Each student should have a unique student ID as the key, and the values should include the student's name, age, and grades. Implement methods to add a new student, retrieve student information, and calculate the average grade for a student.
