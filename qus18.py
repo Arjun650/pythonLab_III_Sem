@@ -1,0 +1,1 @@
+# Create a program that filters a list of strings based on a given condition, such as selecting only words that start with a specific letter or have a certain length.
